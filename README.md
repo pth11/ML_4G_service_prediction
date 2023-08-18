@@ -1,4 +1,9 @@
 # ML_4G_service_prediction
+
+Please see the coding file attached or reach the link below:
+
+https://colab.research.google.com/drive/1LRZm6U5MVzR6KA0nK2qaWbN23kW9uoES#scrollTo=962e9ee5
+
 ## I. Introduction
 
 ### 1. Business question
