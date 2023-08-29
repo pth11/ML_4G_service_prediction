@@ -74,4 +74,5 @@ Comparing the balance accuracy of 4 models, we can see that Logistic Regression 
 => Choose **Logistic Regression** as the final model used to predict 4G service customers for this corporation.
 
 ***Confusion matrix of Logistic Regression model***
+
 ![image](https://github.com/thuhuongphan11/Python_Cohort_Analysis/assets/141643891/de737434-9ba1-4bc2-8bb2-f62028c9f1a2)
